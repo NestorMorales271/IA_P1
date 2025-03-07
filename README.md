@@ -1,8 +1,4 @@
 # IA_P1
-¡Por supuesto! Aquí tienes una introducción para tu archivo README en GitHub:
-
----
-
 # Practicas de Python e Inteligencia Artificial
 
 ¡Bienvenido a mi repositorio de prácticas de Python e Inteligencia Artificial! Este espacio está dedicado a compartir y documentar mis aprendizajes y proyectos en el fascinante mundo de la programación en Python y la inteligencia artificial.
