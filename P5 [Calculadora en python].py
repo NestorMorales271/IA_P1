@@ -11,3 +11,14 @@ def calculadora():
         try:
             n1 = float(input("Ingresa el primer numero: "))
             n2 = float(input("Ingresa el primer numero: "))
+            except ValueError:
+                print("Entrada invalida, ingrese un numero valido.")
+                continue
+            if opt == '1':
+                print(f"La suma de los numeros es: {n1 + n2}")
+            if opt == '2':
+                print(f"La resta de los numeros es: {n1 - n2}")
+            if opt == '3':
+                print(f"La multiplicacion de los numeros es: {n1 * n2}")
+            if opt == '4':
+                print(f"La division de los numeros es: {n1 / n2}")
