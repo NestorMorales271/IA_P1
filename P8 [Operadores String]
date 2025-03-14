@@ -1,4 +1,0 @@
-name = input("nombre")
-lastname = input("peillido")
-print("Gracias.")
-print("\nTu nombre: " + name + " " + lastname + ".")
