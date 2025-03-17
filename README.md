@@ -1,5 +1,6 @@
-# IA_P1
-![La Inteligencia Artificial como ayuda al programar](Imagenes/Portada IA.jpg "IA as a programming tool")
+# INTELIGENCIA ARTIFICIAL [PRACTICA 1]
+![Titulo Representativo: "Python como herramienta para conocer las IA"](https://blog.facialix.com/wp-content/uploads/2021/05/ai-training-facialix.jpg)
+---
 # Practicas de Python e Inteligencia Artificial
 
 ¡Bienvenido a mi repositorio de prácticas de Python e Inteligencia Artificial! Este espacio está dedicado a compartir y documentar mis aprendizajes y proyectos en el fascinante mundo de la programación en Python y la inteligencia artificial.
@@ -27,4 +28,4 @@ Si tienes alguna pregunta o simplemente quieres charlar sobre Python e IA, no du
 
 ---
 
-[INTRODUCCION HECHA POR IA ;)
+INTRODUCCION HECHA POR IA ;)
