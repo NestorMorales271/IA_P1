@@ -1,5 +1,5 @@
 # IA_P1
-![La Inteligencia Artificial como ayuda al programar!](Imagenes/Portada IA.png "IA as a programmingtool")
+![La Inteligencia Artificial como ayuda al programar](Imagenes/Portada IA.jpg "IA as a programming tool")
 # Practicas de Python e Inteligencia Artificial
 
 ¡Bienvenido a mi repositorio de prácticas de Python e Inteligencia Artificial! Este espacio está dedicado a compartir y documentar mis aprendizajes y proyectos en el fascinante mundo de la programación en Python y la inteligencia artificial.
