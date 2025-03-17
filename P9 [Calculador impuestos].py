@@ -5,5 +5,5 @@ if income < 85528:
 # Write the rest of your code here.
 
 tax = round(tax, 0)
-print("Tus impuestos son: ", tax, " pesos.")
+print("Los impuestos totales son: ", tax, " pesos.")
  

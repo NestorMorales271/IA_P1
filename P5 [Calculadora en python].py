@@ -10,7 +10,7 @@ def calculadora():
         opt = input("Ingresa el numero de la operacion (1/2/3/4): ")
         try:
             n1 = float(input("Ingresa el primer numero: "))
-            n2 = float(input("Ingresa el primer numero: "))
+            n2 = float(input("Ingresa el segundo numero: "))
             except ValueError:
                 print("Entrada invalida, ingrese un numero valido.")
                 continue
